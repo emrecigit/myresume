@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+}
+h1 {
+  text-align: right;
+}
+.container {
+  display: flex;
+  background-color: brown;
+}
+.container div {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(114, 42, 165);
+}
